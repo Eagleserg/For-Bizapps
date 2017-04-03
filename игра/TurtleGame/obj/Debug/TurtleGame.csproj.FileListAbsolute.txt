@@ -1,0 +1,8 @@
+C:\Users\Serge\OneDrive\Документы\Visual Studio 2017\Projects\HelloWorld\TurtleGame\bin\Debug\TurtleGame.exe.config
+C:\Users\Serge\OneDrive\Документы\Visual Studio 2017\Projects\HelloWorld\TurtleGame\bin\Debug\TurtleGame.exe
+C:\Users\Serge\OneDrive\Документы\Visual Studio 2017\Projects\HelloWorld\TurtleGame\bin\Debug\TurtleGame.pdb
+C:\Users\Serge\OneDrive\Документы\Visual Studio 2017\Projects\HelloWorld\TurtleGame\bin\Debug\SmallBasicLibrary.dll
+C:\Users\Serge\OneDrive\Документы\Visual Studio 2017\Projects\HelloWorld\TurtleGame\bin\Debug\SmallBasicLibrary.xml
+C:\Users\Serge\OneDrive\Документы\Visual Studio 2017\Projects\HelloWorld\TurtleGame\obj\Debug\TurtleGame.csprojResolveAssemblyReference.cache
+C:\Users\Serge\OneDrive\Документы\Visual Studio 2017\Projects\HelloWorld\TurtleGame\obj\Debug\TurtleGame.exe
+C:\Users\Serge\OneDrive\Документы\Visual Studio 2017\Projects\HelloWorld\TurtleGame\obj\Debug\TurtleGame.pdb
